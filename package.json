@@ -1,5 +1,5 @@
 {
-  "name": "Tokenine Smartcontract for tokens",
+  "name": "tokenine-erc20",
   "version": "1.0.0",
   "description": "The most used Smart Contract  for ERC20 Token.",
   "files": [
@@ -41,10 +41,10 @@
     "url": "https://github.com/tokenine/tokens.git"
   },
   "homepage": "https://tokenine.io",
-  "author": "Dome C.",
+  "author": "Dome C",
   "contributors": [
     {
-      "name": "Dome C.",
+      "name": "Dome",
       "url": "https://github.com/dome"
     }
   ],
